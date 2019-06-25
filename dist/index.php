@@ -10,7 +10,7 @@
 </head>
 <body>
 	
-	<p>Hello</p>
+	<p>Hello Hello</p>
 	<?php include('icons/symbol_sprite.php'); ?>
 	<!-- svg sprite  -->
 	<svg><use xlink:href="#icon-ball"></use></svg>
