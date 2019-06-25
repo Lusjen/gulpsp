@@ -13,6 +13,7 @@
 	<p>Hello Hello</p>
 	<?php include('icons/symbol_sprite.php'); ?>
 	<p>Hello</p>
+	<span>Word</span>
 	<!-- svg sprite  -->
 	<svg><use xlink:href="#icon-ball"></use></svg>
 	<!-- svg sprite  -->
