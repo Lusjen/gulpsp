@@ -12,6 +12,7 @@
 	
 	<p>Hello</p>
 	<?php include('icons/symbol_sprite.php'); ?>
+	<p>Hello</p>
 	<!-- svg sprite  -->
 	<svg><use xlink:href="#icon-ball"></use></svg>
 	<!-- svg sprite  -->
