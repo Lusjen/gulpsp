@@ -14,6 +14,8 @@
 	<?php include('icons/symbol_sprite.php'); ?>
 	<p>Hello</p>
 	<span>Word</span>
+	<span>Hello Ljuda</span>
+	<span>ttttttttt</span>
 	<!-- svg sprite  -->
 	<svg><use xlink:href="#icon-ball"></use></svg>
 	<!-- svg sprite  -->
